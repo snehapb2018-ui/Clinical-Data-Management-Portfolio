@@ -11,6 +11,9 @@ A self-initiated project demonstrating the end-to-end eCRF design and validation
 
 [📄 View the full eCRF Specifications, Annotated CRF & Test Script project](./CRF%20SPECIFICATION%2CANNOTATION%20AND%20TEST%20SCRIPT%20PORTFOLIO%20PROJECT.pdf)
 
+Annotations are highlighted with blue,Reference range highlighted with yellow,Test Scripts are underlined red and Specifications highlighted with grey
+
+
 This project reflects hands-on familiarity with core CDM deliverables — CRF build, edit check design, and validation testing — relevant to entry-level Clinical Data Associate/Coordinator roles.
 
 
