@@ -1,3 +1,5 @@
+# Clinical-Data-Management-Portfolio
+
 ## eCRF Specifications, Annotated CRF & Test Script Project
 
 A self-initiated project demonstrating the end-to-end eCRF design and validation workflow that follows protocol approval in a clinical trial — from drafting CRF specifications through to UAT test scripting.
@@ -49,7 +51,7 @@ This project reflects hands-on familiarity with core CDM deliverables — CRF bu
 
 
 ---
-# Clinical-Data-Management-Portfolio
+
 ## Dental OPD Data Management Project
 This project demonstrates an Excel-based system for managing Dental OPD (Outpatient Department) records, focusing on data integrity, patient tracking, and workflow efficiency.
 
