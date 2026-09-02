@@ -14,6 +14,37 @@ A self-initiated project demonstrating the end-to-end eCRF design and validation
 This project reflects hands-on familiarity with core CDM deliverables — CRF build, edit check design, and validation testing — relevant to entry-level Clinical Data Associate/Coordinator roles.
 
 
+
+### Preview
+#### Demography Form (Specs, Annotations & Test Scripts)
+
+![eCRF_DM_Legend_and_Demography.png](eCRF_DM_Legend_and_Demography.png.png)
+
+#### Demography form Annotation table
+
+![eCRF_DM_Annotation_Table.png](eCRF_DM_Annotation_Table.png.png)
+
+
+#### Routine Haematology Form [RH]Form (Specs, Annotations & Test Scripts)
+
+![eCRF_RH_Haemotology_Form.png](eCRF_RH_Haematology_Form.png.png)
+
+#### Routine Haemotology Annotation Table
+
+![eCRF_RH_Annotation_Table.png](eCRF_RH_Annotation_Table.png.png)
+
+
+#### Routine Clinical Chemistry Form [RCC]Form (Specs, Annotations & Test Scripts)
+
+![eCRF_RCC_Chemistry_Form.png](eCRF_RCC_Chemistry_Form.png.png)
+
+#### Routine Clinical Chemistry Annotation table
+
+![eCRF_RCC_Annotation_Table.png](eCRF_RCC_Annotation_Table.png.png)
+
+
+
+
 ---
 # Clinical-Data-Management-Portfolio
 ## Dental OPD Data Management Project
