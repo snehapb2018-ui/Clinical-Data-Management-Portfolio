@@ -9,7 +9,7 @@ A self-initiated project demonstrating the end-to-end eCRF design and validation
 - **Edit Check Specifications** — logical validation rules and query messaging to ensure data integrity (range checks, format checks, cross-field logic)
 - **UAT Test Scripts** — predefined test steps, inputs, and expected outcomes to validate that programmed edit checks fire correctly prior to study go-live
 
-📄 [View the full project PDF]'[eCRF Specifications, Annotated CRF & Test Scripts](./CRF_SPECIFICATION,ANNOTATION_AND_TEST_SCRIPT_PORTFOLIO_PROJECT.pdf)'
+[📄 View the full eCRF Specifications, Annotated CRF & Test Script project](./CRF%20SPECIFICATION%2CANNOTATION%20AND%20TEST%20SCRIPT%20PORTFOLIO%20PROJECT.pdf)
 
 This project reflects hands-on familiarity with core CDM deliverables — CRF build, edit check design, and validation testing — relevant to entry-level Clinical Data Associate/Coordinator roles.
 
